@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1742216728 source:c:\users\asus\desktop\lab08\prj\sereda_task\main.cpp
+	<iostream>
+	<clocale>
+	<cstdio>
+	<iomanip>
+	<cmath>
+	<windows.h>
+	"C:\Users\Asus\Desktop\BMTP-LAB8-Sereda\prj\ModulesSereda\ModulesSereda.h"
+
+1742208062 c:\users\asus\desktop\bmtp-lab8-sereda\prj\modulessereda\modulessereda.h
+
+1742234120 source:c:\users\asus\desktop\bmtp-lab8-sereda\prj\sereda_task\main.cpp
+	<iostream>
+	<clocale>
+	<cstdio>
+	<iomanip>
+	<cmath>
+	<windows.h>
+	"C:\Users\Asus\Desktop\BMTP-LAB8-Sereda\prj\ModulesSereda\ModulesSereda.h"
+

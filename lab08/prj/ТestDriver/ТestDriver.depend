@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1742213331 source:c:\users\asus\desktop\bmtp-lab8-sereda\prj\Тestdriver\main.cpp
+	<iomanip>
+	<locale>
+	<windows.h>
+	<iostream>
+	"C:\Users\Asus\Desktop\BMTP-LAB8-Sereda\prj\ModulesSereda\ModulesSereda.h"
+
+1742208062 c:\users\asus\desktop\bmtp-lab8-sereda\prj\modulessereda\modulessereda.h
+

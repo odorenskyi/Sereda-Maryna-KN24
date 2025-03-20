@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742211700 source:c:\users\asus\desktop\bmtp-lab8-sereda\prj\modulessereda\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+
