@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ModulesSereda" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ModulesSereda" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Debug/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add directory='&quot;C:/Users/SeredaBMTP/Desktop/BMTP_9/prj/ModulesSereda/ModulesSereda.h&quot;' />
+				</Compiler>
+				<Linker>
+					<Add library='&quot;C:/Users/SeredaBMTP/Desktop/BMTP_9/prj/ModulesSereda/bin/Debug/libModulesSereda.a&quot;' />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ModulesSereda" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option object_output="obj/Release/" />
+				<Option type="2" />
+				<Option compiler="gcc" />
+				<Option createDefFile="1" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="ModulesSereda.cpp">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ModulesSereda.h">
+			<Option target="Debug" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

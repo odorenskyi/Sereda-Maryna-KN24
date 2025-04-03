@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743659494 source:c:\users\seredabmtp\desktop\bmtp_9\prj\modulessereda\modulessereda.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+	<string>
+	<bitset>
+
