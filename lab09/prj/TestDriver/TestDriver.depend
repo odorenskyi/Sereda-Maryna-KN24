@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743665172 source:c:\users\seredabmtp\desktop\bmtp_9\prj\testdriver\main.cpp
+	<iomanip>
+	<locale>
+	<windows.h>
+	<iostream>
+	<string>
+	"C:\Users\SeredaBMTP\Desktop\BMTP_9\prj\ModulesSereda\ModulesSereda.h"
+
+1743659613 c:\users\seredabmtp\desktop\bmtp_9\prj\modulessereda\modulessereda.h
+
