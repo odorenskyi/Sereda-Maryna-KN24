@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1743664370 source:c:\users\seredabmtp\desktop\bmtp_9\prj\sereda_task\main.cpp
+	<iostream>
+	<string>
+	<bitset>
+	"C:\Users\SeredaBMTP\Desktop\BMTP_9\prj\ModulesSereda\ModulesSereda.h"
+
+1743659613 c:\users\seredabmtp\desktop\bmtp_9\prj\modulessereda\modulessereda.h
+
