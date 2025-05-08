@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1740933564 source:c:\users\seredabmtp\desktop\bmtp_11\prj\modulesbezkrovna\main.c
+
+1746629097 source:c:\users\seredabmtp\desktop\bmtp_11\prj\modulesbezkrovna\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"struct_type_project_1.h"
+
+1746629051 c:\users\seredabmtp\desktop\bmtp_11\prj\modulessereda\struct_type_project_1.h
+	<string>
+
