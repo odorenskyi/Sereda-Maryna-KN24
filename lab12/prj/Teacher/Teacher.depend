@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1748532330 source:c:\users\seredabmtp\desktop\bmtp_12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	"ModulesSereda.h"
+
+1748532319 c:\users\seredabmtp\desktop\bmtp_12\prj\modulessereda.h
+	<cmath>
+
